@@ -3,10 +3,10 @@ Coursework set in 2014 to create a Command line Connect 4 game written in java
 
 # Features Include
 
-*Coloured Text Based Interface
-*Save Function
-*Replay Function
-*Easy or Advanced Mode which Changes the difficulty of the AI computer
+Coloured Text Based Interface
+Save Function
+Replay Function
+Easy or Advanced Mode which Changes the difficulty of the AI computer
 
 # How to Use
 
